@@ -23,3 +23,8 @@ button {
   border: none;
   padding: 10px 20px;
 }
+
+/* Cambio del color del titulo */
+h1 {
+  color: #ff6347; /* Podés cambiar este código hexadecimal por el color que prefieras */
+}
